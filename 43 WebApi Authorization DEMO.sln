@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuth.WebApi", "JWTAuth.WebApi\JWTAuth.WebApi.csproj", "{D6126BDB-7DB6-4796-8693-3F45F0E0BBDC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "JWTAuthDEMO", "JWTAuthDEMO\JWTAuthDEMO.sqlproj", "{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6126BDB-7DB6-4796-8693-3F45F0E0BBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6126BDB-7DB6-4796-8693-3F45F0E0BBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6126BDB-7DB6-4796-8693-3F45F0E0BBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6126BDB-7DB6-4796-8693-3F45F0E0BBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4DB67C-C1CD-48D7-86FB-F61B203AAA76}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4517458-3F86-4F97-A97A-ADF4341D45D7}
+	EndGlobalSection
+EndGlobal
